@@ -8,7 +8,7 @@ DigiMedic FHIR Backend je projekt založený na platformě Medplum, přizpůsobe
 
 - `packages/czech-fhir-profiles/`: Implementace českých FHIR profilů
 - `packages/czech-integrations/`: Konfigurace a integrace s českými zdravotnickými systémy
-- `docs/cs/`: Česká dokumentace projektu
+- `packages/digimedic-docs/`: Česká dokumentace projektu
 
 ## Hlavní funkce
 
@@ -36,7 +36,7 @@ DigiMedic FHIR Backend je projekt založený na platformě Medplum, přizpůsobe
 
 ## Dokumentace
 
-Kompletní dokumentace je k dispozici v adresáři `docs/cs/`. Začněte souborem `docs/cs/uvod.md` pro základní přehled projektu.
+Kompletní dokumentace je k dispozici v adresáři `packages/digimedic-docs/`. Začněte souborem `packages/digimedic-docs/docs/cs/uvod.md` pro základní přehled projektu.
 
 ## Jak přispět
 
