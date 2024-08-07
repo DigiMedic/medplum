@@ -1,8 +1,8 @@
 {
-  "name": "root",
-  "version": "3.2.4",
+  "name": "digimedic-fhir-backend",
+  "version": "1.0.0",
   "private": true,
-  "workspaces": [
+  "description": "DigiMedic FHIR Backend založený na Medplum, přizpůsobený pro použití v České republice",
     "packages/*",
     "examples/*"
   ],
